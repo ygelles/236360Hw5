@@ -1,7 +1,7 @@
 # 236360Hw5-spring19
 this is FanC to mips compiler
 
-Lexer: lex
+Lexer: lex\n
   scanner.lex file with special EOF token->MY_EXIT
 
 Parser: bison
