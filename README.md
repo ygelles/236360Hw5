@@ -5,7 +5,7 @@ this is FanC to mips compiler
         scanner.lex file with special EOF token->MY_EXIT
     Parser: bison
         parser.ypp
-    SymolTable: c++
+    SymbolTable: c++
         symbolTable.h
     Headers:
         parser.h->both lexer and parser header, c style
